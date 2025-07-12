@@ -31,8 +31,7 @@ The notebook demonstrates fundamental machine learning concepts and best practic
 ## How to Use
 
 1. Clone this repository
-2. Install the required dependencies (see `requirements.txt`)
-3. Open and run the Jupyter notebook `02_end_to_end_machine_learning_project.ipynb`
+2. Open and run the Jupyter notebook `02_end_to_end_machine_learning_project.ipynb`
 
 ## Key Skills Demonstrated
 
